@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		08CB637A2DDEF11300184F85 /* JTAppleCalendar in Frameworks */ = {isa = PBXBuildFile; productRef = 08CB63792DDEF11300184F85 /* JTAppleCalendar */; };
+		08CB64412DE5C91800184F85 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 08CB64402DE5C91800184F85 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -31,6 +32,7 @@
 		08CB62E02DDDD94700184F85 /* TaskManager.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TaskManager.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		08CB62F92DDDD94D00184F85 /* TaskManagerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TaskManagerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		08CB63032DDDD94D00184F85 /* TaskManagerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TaskManagerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		08CB64402DE5C91800184F85 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -93,6 +95,7 @@
 		08CB62D72DDDD94700184F85 = {
 			isa = PBXGroup;
 			children = (
+				08CB64402DE5C91800184F85 /* README.md */,
 				08CB62E22DDDD94700184F85 /* TaskManager */,
 				08CB62FC2DDDD94D00184F85 /* TaskManagerTests */,
 				08CB63062DDDD94D00184F85 /* TaskManagerUITests */,
@@ -242,6 +245,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				08CB64412DE5C91800184F85 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
