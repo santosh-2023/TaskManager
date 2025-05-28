@@ -65,8 +65,6 @@ Each task contains the following properties:
 
 ## 📸 Screenshots
 
-> Replace the placeholders below with actual image paths after uploading them to your repo.
-
 ### Task List Screen
 ![Task List](screenshots/task_list.png)
 
